@@ -1,0 +1,55 @@
+//Henry Josue Díaz Duarte 
+//Ejercicio del parcial
+
+
+#include <iostream> // biblioteca estandar que permite entradas/salidas en pantalla
+#include <math> 
+
+using namespace std;
+
+int main (){
+
+
+   const string clave = 2022
+   cout << "Accediento a la tarjeta de crédito" << endl1;
+   cout << "Ingrese el pin para poder acceder" << endl1;
+   cin >> clave
+
+   if ( clave == 2022)
+   {  
+       cout << "El pin es el correcto" << endl1;
+      
+   }
+
+   else
+    {
+        cout << "El pin ingresado es incorrecto" << endl1;
+        return 0;
+    }
+        
+
+    cout << "Has accedido de forma correcta a tu tarjeta de crédito" endl1;
+    cout << "Nombre: Henry Díaz Carné: 0909-22-17965" endl1;
+    
+    double cantidadenquetzales = 3000;
+    double cantidadendolares = 350;
+
+    cout << "Seleccione el tipo de moneda a utilizar" endl1;
+
+    while ()
+    {
+        cout << "La cantidad de dinero disponible en la tarjeta es de: " << cantidadenquetzales << endl1;
+        cout << "1. Hacer una compra"
+
+
+    if ()
+
+
+
+
+    }
+
+
+system ("PAUSE");
+
+}
